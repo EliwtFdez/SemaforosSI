@@ -1,0 +1,15 @@
+C:\Users\intel\source\repos\Semaforo\Semaforo\bin\Debug\net6.0\Semaforo.exe
+C:\Users\intel\source\repos\Semaforo\Semaforo\bin\Debug\net6.0\Semaforo.deps.json
+C:\Users\intel\source\repos\Semaforo\Semaforo\bin\Debug\net6.0\Semaforo.runtimeconfig.json
+C:\Users\intel\source\repos\Semaforo\Semaforo\bin\Debug\net6.0\Semaforo.dll
+C:\Users\intel\source\repos\Semaforo\Semaforo\bin\Debug\net6.0\Semaforo.pdb
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\Semaforo.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\Semaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\Semaforo.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\Semaforo.AssemblyInfo.cs
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\Semaforo.dll
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\refint\Semaforo.dll
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\Semaforo.pdb
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\Semaforo.genruntimeconfig.cache
+C:\Users\intel\source\repos\Semaforo\Semaforo\obj\Debug\net6.0\ref\Semaforo.dll
